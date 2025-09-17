@@ -1,3 +1,3 @@
 https://www.w3schools.com/python/
 
-<img width="2327" height="1637" alt="Screenshot 2025-09-18 013123" src="https://github.com/user-attachments/assets/47d6cd34-0b1a-4191-8d85-f9929b49e894" />
+<img width="2319" height="989" alt="Screenshot 2025-09-18 013228" src="https://github.com/user-attachments/assets/36ab3170-04d8-436d-ab72-f594538bb1ce" />
